@@ -6,7 +6,7 @@ Aspiring Data Scientist
 
 I've been coding for 3 years and found a passion for Machine Learning and Data Science.
 
-* 🌍  I'm based in Hyderabad
+* 🌍  I'm based in Newark, DE
 * ✉️  You can contact me at [karthikheyaa.17@outlook.com](mailto:karthikheyaa.17@outlook.com)
 * 🧠  I'm learning TensorFlow
 * 🤝  I'm open to collaborating on Machine Learning & Data Science, Computer Vision
