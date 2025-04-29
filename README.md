@@ -4,13 +4,13 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Aspiring Data Scientist
 -----------------------
 
-I've been coding for 3 years and found a passion for Machine Learning and Data Science.
+I've been coding for 4 years and found a passion for Machine Learning and Data Science.
 
 * 🌍  I'm based in Newark, DE
-* ✉️  You can contact me at [karthikheyaa.17@outlook.com](mailto:karthikheyaa.17@outlook.com)
-* 🧠  I'm learning TensorFlow
+* ✉️  You can contact me at [karth@udel.edu](mailto:karth@udel.edu)
+* 🧠  I'm learning LLM Engineering
 * 🤝  I'm open to collaborating on Machine Learning & Data Science, Computer Vision
-* ⚡  I'm the slowest person alive and my favorite superhero is The Flash ⚡
+* 🤓  I work efficiently when I’m driven by purpose; without it, I tend to default to strategic procrastination.
 
 ### Skills
 
