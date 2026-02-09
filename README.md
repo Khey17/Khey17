@@ -9,7 +9,7 @@ I bridge upstream and downstream: **ingest → model → validate → deliver**.
 * 🌍  I'm based in Newark, DE  
 * ✉️  You can contact me at [karth@udel.edu](mailto:karth@udel.edu)  
 * 🧠  Current focus: **Data Engineering on AWS** (S3, Redshift, Glue) + orchestration (Airflow)  
-* 🧱  Building: **Batch Data Platform (Project A)** + **Sentinel** (workflow orchestration MVP)  
+* 🧱  Building: **Batch Data Platform** + **Sentinel** (workflow orchestration MVP)  
 * ✅  I care about: reliability, data quality checks, reproducibility, and clean documentation  
 
 ### Skills
