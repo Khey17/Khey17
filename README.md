@@ -39,6 +39,12 @@ Current focus: **AWS (S3, Redshift, Glue)** + orchestration (**Airflow**).
 
 ---
 
+## Certifications
+- **AWS Certified Machine Learning Engineer – Associate** (Issued: Dec 17, 2024 · Expires: Dec 17, 2027) — [Verify](https://cp.certmetrics.com/amazon/en/public/verify/credential/3346c0ac44e14820974f92143c134a2d)
+- **TensorFlow Developer Certificate** — [Verify](https://www.credential.net/d08b3cde-7418-4b92-b04f-8671caf0fa93)
+
+---
+
 ## Links
 
 <p align="left">
