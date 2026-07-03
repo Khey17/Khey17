@@ -1,4 +1,4 @@
-Hi 👋 I’m Karthikheyaa Kurra (Karth)
+Hi 👋 I’m Karth
 ===================================
 
 **Data Engineer** · M.S. Data Science @ University of Delaware  
