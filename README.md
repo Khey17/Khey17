@@ -1,72 +1,37 @@
-Hi 👋 I’m Karth
+Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" alt="waving hand"> I'm Karth
 ===================================
 
-**Data Engineer** · M.S. Data Science @ University of Delaware  
-I build **ETL/ELT pipelines**, **analytics-ready tables**, and **reliable runs** (quality checks, backfills, reproducibility).  
-Current focus: **AWS (S3, Redshift, Glue)** + orchestration (**Airflow**).
+Research software engineer at the University of Delaware, working in scientific machine learning.
 
-- 🌍 Newark, DE  
-- ✉️ [karth@udel.edu](mailto:karth@udel.edu)  
-- 🔗 LinkedIn: https://www.linkedin.com/in/karthikheyaa/  
-- 🧱 Active builds: **DE Batch Platform** · **Sentinel Execution Layer**  
-- ✅ Care about: reliability, data quality, debuggability, clean docs  
+## What I work on
 
----
+- **Neural surrogates for nonlinear PDE solvers** with Dr. Ke Chen (Mathematical Sciences).
+  Classical solvers answer each new problem by iterating from scratch; we train models that learn
+  the solution map for semilinear elliptic PDEs and solve new instances in a single forward pass.
+  The research code lives in a private repo until publication (manuscript in preparation).
+- **LLM serving & benchmarking** with Dr. Sunita Chandrasekaran's group (Computer & Information
+  Sciences). Benchmarking inference and serving performance on NVIDIA DGX hardware for an
+  on-premise assistant the university is building.
 
-## Skills
+## What I'm reading
 
-<p align="left">
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" />
-  </a>
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" />
-  </a>
-  <a href="https://www.oracle.com/database/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/oracle-colored.svg" width="36" height="36" alt="Oracle" />
-  </a>
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored-dark.svg" width="36" height="36" alt="AWS" />
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" />
-  </a>
-  <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" width="36" height="36" alt="TensorFlow" />
-</a>
+- 📖 Lloyd N. Trefethen, *Spectral Methods in MATLAB*
+- 📖 Per-Gunnar Martinsson, *Fast Direct Solvers for Elliptic PDEs*
 
-</p>
+Also part of a weekly Sci-ML reading group and some of the recent topics covered: 
+- [Computational Optimal Transport](https://arxiv.org/pdf/1803.00567)
+- [Equivariant Neural Networks](https://nadavdym.github.io/lecture_notes/DeepNotes.pdf)
 
----
-
-## Certifications
-- **AWS Certified Machine Learning Engineer – Associate** (Issued: Dec 17, 2024 · Expires: Dec 17, 2027) — [Verify](https://cp.certmetrics.com/amazon/en/public/verify/credential/3346c0ac44e14820974f92143c134a2d)
-- **TensorFlow Developer Certificate** — [Verify](https://www.credential.net/d08b3cde-7418-4b92-b04f-8671caf0fa93)
-
----
-
-## Links
+## Elsewhere
 
 <p align="left">
-  <a href="https://www.github.com/Khey17" target="_blank" rel="noreferrer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" />
-    </picture>
+  <a href="https://khey17.github.io" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Portfolio-khey17.github.io-1f425f?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/karthikheyaa/" target="_blank" rel="noreferrer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" />
-    </picture>
+    <img src="https://img.shields.io/badge/LinkedIn-karthikheyaa-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://medium.com/@karthikheyaa" target="_blank" rel="noreferrer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" />
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" alt="Medium" />
-    </picture>
+  <a href="mailto:karth@udel.edu">
+    <img src="https://img.shields.io/badge/Email-karth%40udel.edu-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
