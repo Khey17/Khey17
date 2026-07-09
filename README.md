@@ -1,7 +1,7 @@
 Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" alt="waving hand"> I'm Karth
 ===================================
 
-Research software engineer at the University of Delaware, working in scientific machine learning.
+Research Associate at the University of Delaware, working in scientific machine learning.
 
 ## What I work on
 
