@@ -25,7 +25,7 @@ Also part of a weekly Sci-ML reading group and some of the recent topics covered
 ## Elsewhere
 
 <p align="left">
-  <a href="https://khey17.github.io" target="_blank" rel="noreferrer">
+  <a href="https://khey17.github.io/portfolio/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Portfolio-khey17.github.io-1f425f?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/karthikheyaa/" target="_blank" rel="noreferrer">
